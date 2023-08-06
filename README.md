@@ -1,7 +1,7 @@
-[[MasterHead](https://camo.githubusercontent.com/3015c6f34ed5c2131bac41a22b7a27a847f65803d232c99fe31f649c9c746fbd/68747470733a2f2f7777772e61616469747269746563686e6f6c6f67792e636f6d2f696d616765732f726564657369676e2e676966)]]
+[![MasterHead](https://camo.githubusercontent.com/3015c6f34ed5c2131bac41a22b7a27a847f65803d232c99fe31f649c9c746fbd/68747470733a2f2f7777772e61616469747269746563686e6f6c6f67792e636f6d2f696d616765732f726564657369676e2e676966)]
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A data science enthusiast from India</h3>
-< img align = "right" alt = "coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"s
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabhi612&label=Profile%20views&color=0e75b6&style=flat" alt="iamabhi612" /> </p>
 
